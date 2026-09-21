@@ -14,8 +14,8 @@ for this binary classification task.
 # LIBRARY USES:
 
 • Mathplotlib for data visualization.
-• Boxplot for outline detection. 
-• Sklearn for preprocessing, MaxMinScaler for data nornalisation. 
+• Boxplot for outline detection.
+• Sklearn for preprocessing, MaxMinScaler for data nornalisation.
 • Train_test for feeding & testing data to the machine.
 
 # STEPS TO IMPLIMENTATION:
